@@ -38,4 +38,3 @@ This task gave me real exposure to how machines actually “see” images. It’
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/8a9c86d1-abde-43cd-957d-dd9fd928e68b)
 
-![Image](https://github.com/user-attachments/assets/2e6b7d7e-3493-42a8-a717-af9d5a2cb432)
