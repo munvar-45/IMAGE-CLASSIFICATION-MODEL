@@ -32,3 +32,10 @@ How to evaluate and visualize model performance using plots.
 
 Improved my understanding of deep learning, especially in computer vision tasks.
 This task gave me real exposure to how machines actually “see” images. It’s not just about feeding pictures — the model learns to recognize patterns like edges, shapes, and textures layer by layer. At first, I thought image classification was complicated, but building this CNN helped me break it down step by step. I also realized how tuning layers, activations, and epochs can directly affect performance. Even though I used a standard dataset, I now feel confident enough to try custom image classification in future projects. This task built my foundation in deep learning and computer vision.
+
+
+
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/8a9c86d1-abde-43cd-957d-dd9fd928e68b)
+
+![Image](https://github.com/user-attachments/assets/2e6b7d7e-3493-42a8-a717-af9d5a2cb432)
